@@ -21,7 +21,21 @@ System.out.println("3");
 					System.out.println("malayalam");
 
 				}
+	public void oneMethod() {
+System.out.println("one");
+	}
+	public void twoMethod() {
+		System.out.println("two");
+
+	}
+	public void threeMethod() {
+		System.out.println("three");
+
+	}
+
 	
+	
+
 	
 	
 	
