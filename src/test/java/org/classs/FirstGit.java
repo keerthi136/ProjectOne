@@ -11,6 +11,16 @@ System.out.println("2");
 	public void thirdClass() {
 System.out.println("3");
 	}
+	public void india() {
+		System.out.println("tamil");
+				}
+				public void usa() {
+		System.out.println("English");
+				}
+				public void kerala() {
+					System.out.println("malayalam");
+
+				}
 	public void oneMethod() {
 System.out.println("one");
 	}
@@ -22,6 +32,10 @@ System.out.println("one");
 		System.out.println("three");
 
 	}
+
+	
+	
+
 	
 	
 	
