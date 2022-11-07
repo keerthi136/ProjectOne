@@ -11,7 +11,17 @@ System.out.println("2");
 	public void thirdClass() {
 System.out.println("3");
 	}
-	
+	public void oneMethod() {
+System.out.println("one");
+	}
+	public void twoMethod() {
+		System.out.println("two");
+
+	}
+	public void threeMethod() {
+		System.out.println("three");
+
+	}
 	
 	
 	
